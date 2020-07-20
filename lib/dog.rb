@@ -11,4 +11,7 @@ end
 def bark
   puts "woof!"
 end 
+
+fido = Dog.new
+puts fido.bark
   # Your code goes here!
