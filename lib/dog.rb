@@ -13,5 +13,5 @@ def bark
 end 
 
 fido = Dog.new
-puts fido.bark
+fido.bark
   # Your code goes here!
