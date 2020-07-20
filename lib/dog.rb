@@ -13,6 +13,6 @@ def bark
 end 
 
 fido = Dog.new
-fido.bark = "woof!"
-puts fido.bark
+fido.bark
+#puts fido.bark
   # Your code goes here!
